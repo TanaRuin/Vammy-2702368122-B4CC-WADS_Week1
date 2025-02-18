@@ -11,3 +11,14 @@ What Is A Web Application?
 
 What is Web Application Development?
 -Web application development is the process of using client-side and server-side programming to develop an application accessible over a web browser. Developers begin with ideating a web application based on finding a solution to a specific problem, and move on to design the app, choose the right framework to develop the web app, test it and finally deploy it.
+
+Web App vs Website – Is There a Difference?
+-Yes, you’re right for asking that question. It is the first doubt that comes to mind and rightly so. The lines between a website and a web app are rather blurred.
+
+Here’s the real difference. A website can be a static page shat only gives out information and may or may not have an input dependability.
+
+A web app on the other hand is a dynamic web application that responds to user input and allows users to perform certain tasks over the internet.
+
+So in short, any website that has client-side component that allows users to perform a task can be called a web app.
+
+Web apps are designed to perform specific tasks that help user solve a problem. Websites can exist merely to provide information.
