@@ -22,3 +22,10 @@ A web app on the other hand is a dynamic web application that responds to user i
 So in short, any website that has client-side component that allows users to perform a task can be called a web app.
 
 Web apps are designed to perform specific tasks that help user solve a problem. Websites can exist merely to provide information.
+
+Web Apps vs Mobile Apps
+Web apps can essentially be used over a browser on any device, be it a desktop or a mobile. So the real question here is – mobile web apps vs native mobile apps.
+
+Native apps are platform specific applications build separately for Android or iOS devices. They need to be downloaded from an app store and stored on your device. While they offer a highly personalized experience, they are expensive to build, take up space on a device and are tied to that device.
+
+Web apps on the other hand can be easily used on any device as they are accessed on a browser. They don’t take up device storage and most importantly, building a web app is more cost effective and viable.
